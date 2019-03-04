@@ -16,5 +16,9 @@ with the developers stage information.
 3. Run the following
 
 ````bash
+ ./gradlew build
+````
+
+````bash
  ./gradlew <your_user_name>Stage deployApi --parallel
 ````
