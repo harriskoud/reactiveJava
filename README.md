@@ -13,6 +13,8 @@ To deploy, execute in Reporting:
   * all files inside the lambda-environment folder
 with the developers stage information.
 
+3. Run the following
+
 ````bash
  ./gradlew <your_user_name>Stage deployApi --parallel
 ````
