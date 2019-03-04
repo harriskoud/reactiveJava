@@ -8,9 +8,9 @@ To deploy, execute in Reporting:
  npm install
 ````
 2. Copy the folder test inside the deployment folder, (Reporting->deployment->Reporting->stages->test) and rename it with the <your_user_name_without_numbers>. Update the files
-* cloudformation.properties
-* stageVariables.properties
-* all files inside the lambda-environment folder
+  * cloudformation.properties
+  * stageVariables.properties
+  * all files inside the lambda-environment folder
 with the developers stage information.
 
 ````bash
