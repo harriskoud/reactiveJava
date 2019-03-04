@@ -13,6 +13,7 @@ Before you begin your first deployment, make sure you have working credentials f
   * cloudformation.properties
   * stageVariables.properties
   * all files inside the lambda-environment folder
+  
 with the developers stage information.
 
 3. Run the following
