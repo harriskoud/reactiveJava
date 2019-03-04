@@ -2,6 +2,8 @@
 
 To deploy, execute in Reporting:
 
+Before you begin your first deployment, make sure you have working credentials for AWS Console from Conti. To access the AWS Console from a web browser, please visit ADFS, login with your Conti credentials and select Sign-In for Amazon Web Services.
+
 1. From Reporting root folder run the following
 
 ````bash
